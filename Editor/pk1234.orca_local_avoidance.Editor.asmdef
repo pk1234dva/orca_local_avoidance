@@ -1,0 +1,15 @@
+{
+    "name": "pk1234.orca_local_avoidance.Editor",
+    "references": [
+        "GUID:995219e74ae5f4f46af31bf88c69a324"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

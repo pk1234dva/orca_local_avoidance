@@ -1,0 +1,29 @@
+{
+  "name": "net.pk1234.orca_local_avoidance",
+  "version": "1.0.0",
+  "displayName": "Orca local avoidance",
+  "description": "An local avoidance solution using the ORCA approach.",
+  "unity": "2020.1",
+  "unityRelease": "2f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "AI",
+    "A.I.",
+    "local",
+    "avoidance"
+  ],
+  "author": {
+    "name": "Jakub Prokop",
+    "email": "pk1234dva@email.cz",
+    "url": "https://pk1234.net/"
+  },
+
+  "samples": [
+    {
+      "displayName": "URP sample scene",
+      "description": "Sample scene with three examples of using orca local avoidance.",
+      "path": "Samples~/SamplesUniversalRP"
+    }
+  ]
+}
